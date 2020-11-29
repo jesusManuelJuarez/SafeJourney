@@ -1,0 +1,12 @@
+
+
+#container{
+    background-color: aliceblue;
+    width: 350px;
+    height: 600px;
+}
+
+#toolbarCont{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
